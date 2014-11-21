@@ -1,0 +1,4 @@
+scrap
+env
+*.DS_Store
+*.pyc
